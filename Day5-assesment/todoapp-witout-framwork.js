@@ -16,7 +16,7 @@ while(true){
     if (choice==1){
         let task = prompt("Enter your task: ");
         TODO.push(task);
-        console.log("__Task added__\n")
+        console.log("__Task added__a\n")
     }
 
     else if (choice ==2){
